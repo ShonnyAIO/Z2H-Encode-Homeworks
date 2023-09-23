@@ -1,0 +1,6 @@
+https://youtu.be/Wtcu7NoSyIE
+
+Useful links relevant to the homework for today:
+Link to obtain an API key to verify contracts: https://bscscan.com/myapikey
+Chainlist filtered to add testnet to your MetaMask: https://chainlist.org/?search=binance&testnets=true
+BNB testnet faucet to get tBNB: https://testnet.bnbchain.org/faucet-smart
